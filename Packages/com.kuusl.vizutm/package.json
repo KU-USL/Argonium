@@ -1,0 +1,27 @@
+{
+  "name": "com.kuusl.vizutm",
+  "version": "1.0.0",
+  "displayName": "VizUTM",
+  "description": "A package for UTM Digital Twins.",
+  "unity": "2022.3",
+  "unityRelease": "62f2",
+  "documentationUrl": "https://vizutm.secure-utm.org",
+  "licensesUrl": "https://vizutm.secure-utm.org",
+  "dependencies": {
+    "com.unity.splines": "2.6.1",
+    "com.cesium.unity": "1.16.2"
+ },
+ "keywords": [
+    "Digital Twins",
+    "Visualization",
+    "UTM",
+    "Unmanned Traffic Management",
+    "Drones"
+  ],
+  "author": {
+    "name": "Fayaz Mohamed Haneefa",
+    "email": "fayaz.haneefa@ku.ac.ae",
+    "url": "https://www.linkedin.com/in/fayaz-mohamed-haneefa/"
+  }
+}
+
