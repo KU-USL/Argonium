@@ -7,7 +7,7 @@ A sample project for VizUTM based on the Argon UTM backend. The application itse
 Simply want to check out what's up? Download and extract the build, and run the `.exe`. Use either a controller or keyboard/mouse (See below for Controls). 
 
 ### Developers
-Clone the repo and check out the project from Unity Editor. Play the project in the editor to explore. (Documentation and Wiki coming soon). 
+Clone the repo and check out the project from Unity Editor. Play the project in the editor to explore.
 
 ## Features
 - **Free Roam:** Fly around to any location in the world (Feature from Cesium)
